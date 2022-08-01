@@ -1,7 +1,7 @@
-package com.embea.policymanagement.controller;
+package com.turanulus.policymanagement.controller;
 
-import com.embea.policymanagement.dto.*;
-import com.embea.policymanagement.service.PolicyService;
+import com.turanulus.policymanagement.dto.*;
+import com.turanulus.policymanagement.service.PolicyService;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.http.ResponseEntity;

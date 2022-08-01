@@ -1,6 +1,6 @@
-package com.embea.policymanagement.repository;
+package com.turanulus.policymanagement.repository;
 
-import com.embea.policymanagement.model.Policy;
+import com.turanulus.policymanagement.model.Policy;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface PolicyRepository extends JpaRepository<Policy, Long> {}

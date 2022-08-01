@@ -1,4 +1,4 @@
-package com.embea.policymanagement.model;
+package com.turanulus.policymanagement.model;
 
 import lombok.Getter;
 import lombok.Setter;

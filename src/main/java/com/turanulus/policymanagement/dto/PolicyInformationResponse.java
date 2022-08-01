@@ -1,4 +1,4 @@
-package com.embea.policymanagement.dto;
+package com.turanulus.policymanagement.dto;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.Builder;

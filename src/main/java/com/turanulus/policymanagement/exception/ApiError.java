@@ -1,4 +1,4 @@
-package com.embea.policymanagement.exception;
+package com.turanulus.policymanagement.exception;
 
 import lombok.Builder;
 import lombok.Data;

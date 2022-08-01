@@ -1,7 +1,7 @@
-package com.embea.policymanagement.mapper;
+package com.turanulus.policymanagement.mapper;
 
-import com.embea.policymanagement.dto.InsuredPersonDTO;
-import com.embea.policymanagement.model.InsuredPerson;
+import com.turanulus.policymanagement.dto.InsuredPersonDTO;
+import com.turanulus.policymanagement.model.InsuredPerson;
 import org.springframework.stereotype.Component;
 
 import java.util.List;

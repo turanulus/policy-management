@@ -1,4 +1,4 @@
-package com.embea.policymanagement.exception;
+package com.turanulus.policymanagement.exception;
 
 public class PolicyNotFoundException extends RuntimeException {
   public PolicyNotFoundException(String message) {

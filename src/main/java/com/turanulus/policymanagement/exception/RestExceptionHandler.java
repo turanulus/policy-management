@@ -1,4 +1,4 @@
-package com.embea.policymanagement.exception;
+package com.turanulus.policymanagement.exception;
 
 import org.springframework.core.Ordered;
 import org.springframework.core.annotation.Order;

@@ -1,4 +1,4 @@
-package com.embea.policymanagement;
+package com.turanulus.policymanagement;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

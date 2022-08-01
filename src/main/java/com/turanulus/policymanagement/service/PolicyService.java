@@ -1,11 +1,11 @@
-package com.embea.policymanagement.service;
+package com.turanulus.policymanagement.service;
 
-import com.embea.policymanagement.dto.*;
-import com.embea.policymanagement.exception.PolicyNotFoundException;
-import com.embea.policymanagement.mapper.InsuredPersonMapper;
-import com.embea.policymanagement.model.InsuredPerson;
-import com.embea.policymanagement.model.Policy;
-import com.embea.policymanagement.repository.PolicyRepository;
+import com.turanulus.policymanagement.dto.*;
+import com.turanulus.policymanagement.exception.PolicyNotFoundException;
+import com.turanulus.policymanagement.mapper.InsuredPersonMapper;
+import com.turanulus.policymanagement.model.InsuredPerson;
+import com.turanulus.policymanagement.model.Policy;
+import com.turanulus.policymanagement.repository.PolicyRepository;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Service;
